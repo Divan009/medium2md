@@ -4,7 +4,7 @@
 Download a public Medium article and save it as Markdown.
 
 Usage:
-    python medium2md.py <medium-url>  [--out out_dir]
+    python main.py <medium-url>  [--out out_dir]
 
 Notes:
 * Respects Medium TOS.  Works only for fully public, paywall-free posts.
